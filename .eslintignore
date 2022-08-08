@@ -1,0 +1,5 @@
+**/*.js
+node_modules
+build
+dist
+/src/next-app-env.d.ts
